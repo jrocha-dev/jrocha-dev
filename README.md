@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jrocha-dev/jrocha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Greetings, fellow enthusiasts of the digital realm!</h1>
+
+I am none other than <b>José Rocha</b>, hailing from the sun-kissed lands of <img src="https://cdn-icons-png.flaticon.com/128/3909/3909370.png" width="13"/> <b>Brazil</b>. With a career spanning over two decades in the ever-evolving domain of programming, I find myself marveled by the journey that brought me here. Ah, the memories! Cast your mind back to the days when <b>Pascal</b>, <b>Clipper</b>, and <b>Basic</b>, and held sway as the formidable languages of the time.
+
+<p align="center"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/9b/d2/03/9bd2035f-0748-023a-3f2d-1ea2c33ee3a3/source/512x512bb.jpg" width="128"/></p>
+
+At present, I have taken up the mantle of <b>freelance web developer and software engineer</b>, traversing the vast expanse of digital landscapes. It is within the intricate web of complex conundrums that my true ardor lies. The thrill of unraveling <b>knotty puzzles</b> and <b>devising ingenious solutions</b> has become the lifeblood of my existence.
+
+But lo and behold, there exists another facet of my being, one that resonates with the ethereal <b>realm of art</b>. Ah, the power to <b>stir emotions</b>, to captivate the senses! It is in the realm of UI/UX where my dual passions converge harmoniously. This amalgamation of technical prowess and artistic finesse renders the creation of <b>educational games</b> a truly sublime pursuit. Indeed, this realm of interactive experiences holds a special place in my heart, for it allows me to channel my affection and create immersive wonders that both entertain and enlighten.
+
+So, dear comrades of the digital cosmos, let us embark on this journey together, driven by an unwavering dedication to <b>craftsmanship</b> and an insatiable thirst for <b>innovation</b>. With every line of code we craft and every pixel we meticulously place, let us leave an indelible mark upon the tapestry of our digital universe. Onward, we shall march, embracing the challenges that lie before us, for we are the <b>guardians of logic</b> and the <b>architects of dreams</b>.
