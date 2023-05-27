@@ -30,7 +30,7 @@ So, dear comrades of the digital cosmos, let us embark on this journey together,
 [![Angular](https://img.shields.io/badge/Angular-%20-red?logo=angular&logoColor=white&style=for-the-badge)](https://angular.io/)
 [![PHP](https://img.shields.io/badge/PHP-%20-purple?logo=php&logoColor=white&style=for-the-badge)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-%20-red?logo=laravel&logoColor=white&style=for-the-badge)](https://laravel.com/)
-[![Java](https://img.shields.io/badge/Java-%20-yellow?logo=java&logoColor=white&style=for-the-badge)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/Java-%20-yellow?logo=openjdk&logoColor=white&style=for-the-badge)](https://www.java.com/)
 [![Spring](https://img.shields.io/badge/Spring-%20-green?logo=spring&logoColor=white&style=for-the-badge)](https://spring.io/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%20-brightgreen?logo=spring-boot&logoColor=white&style=for-the-badge)](https://spring.io/projects/spring-boot)
 [![Python](https://img.shields.io/badge/Python-%20-blue?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org)
@@ -45,9 +45,29 @@ So, dear comrades of the digital cosmos, let us embark on this journey together,
 [![Docker](https://img.shields.io/badge/Docker-%20-blue?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-%20-blue?logo=kubernetes&logoColor=white&style=for-the-badge)](https://kubernetes.io/)
 
-<h3 align="center">My GitHub</h3>
+<h3 align="center">WakaTime</h3>
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=candidoroch&langs_count=5"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=candidoroch&langs_count=5&theme=dark"/></a>
+</p>
+<p align="center">
+  <a href="https://wakatime.com/@candidoroch#gh-light-mode-only"><img src="https://wakatime.com/share/@candidoroch/30771b46-9a7e-4154-81a4-a2d562b59c08.svg" /></a>
+  <a href="https://wakatime.com/@candidoroch#gh-dark-mode-only"><img src="https://wakatime.com/share/@candidoroch/e6e2d60f-a532-493c-b11f-caec5da73a5d.svg" /></a>
+</p>
+
+<h3 align="center">GitHub</h3>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=jrocha-dev&show_icons=true&count_private=true" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=jrocha-dev&show_icons=true&count_private=true&theme=dark" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrocha-dev&layout=compact&langs_count=8" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrocha-dev&layout=compact&langs_count=8&theme=dark" /></a>
+</p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrocha-dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <h3 align="center">About Me</h3>
 
@@ -55,6 +75,5 @@ With a deep-rooted passion for solving intricate problems, I thrive on the thril
 
 Let's connect and embark on this journey together! Feel free to explore my repositories and reach out for collaboration opportunities or stimulating discussions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/josecprocha/)
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen?style=flat-square&logo=web)](https://jrocha.pro)
