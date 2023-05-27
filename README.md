@@ -74,6 +74,3 @@ So, dear comrades of the digital cosmos, let us embark on this journey together,
 With a deep-rooted passion for solving intricate problems, I thrive on the thrill of unraveling complexities and crafting elegant solutions 😉. My journey as a developer has allowed me to blend technical expertise with artistic finesse. It is here that my affection for creating (educational) games truly shines. I believe in the power of art to touch hearts and minds, to create immersive experiences that captivate and enlighten. Through my GitHub projects, I aspire to leave an indelible mark on the tapestry of our digital universe.
 
 Let's connect and embark on this journey together! Feel free to explore my repositories and reach out for collaboration opportunities or stimulating discussions.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/josecprocha/)
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen?style=flat-square&logo=web)](https://jrocha.pro)
