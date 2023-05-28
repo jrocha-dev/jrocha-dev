@@ -48,8 +48,8 @@ So, dear comrades of the digital cosmos, let us embark on this journey together,
 <h3 align="center">WakaTime</h3>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=candidoroch&langs_count=5"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=candidoroch&langs_count=5&theme=dark"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=candidoroch&langs_count=5&range=last_7_days"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=candidoroch&langs_count=5&theme=dark&range=last_7_days"/></a>
 </p>
 <p align="center">
   <a href="https://wakatime.com/@candidoroch#gh-light-mode-only"><img src="https://wakatime.com/share/@candidoroch/30771b46-9a7e-4154-81a4-a2d562b59c08.svg" /></a>
