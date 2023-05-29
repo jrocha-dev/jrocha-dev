@@ -7,7 +7,11 @@
 
 I am none other than <b>José Rocha</b>, hailing from the sun-kissed lands of :brazil: <b>Brazil</b>. With a thing of :punch::bald_man: <b>"programming as a hobbie"</b> spanning over two decades in the ever-evolving domain of programming, I find myself marveled by the journey that brought me here 🏇🏾. Ah, the memories! Cast your mind back to the days when :floppy_disk: <b>BASIC</b>, :floppy_disk: <b>Pascal</b>, and :floppy_disk: <b>Clipper</b> held sway as the formidable languages of the time.
 
-<p align="center"><img src="https://www.vgchartz.com/articles_media/images/time-to-die-again-in-dark-souls-3-247918_expanded.jpg"/></p>
+<p align="center">
+  <a href="https://xkcd.com/303/" alt="Click to go to xkcd original comic strip" align="center">
+    <img src="https://github.com/jrocha-dev/jrocha-dev/blob/main/xkcd-compiling-512x512bb.jpg" alt="two programmers sword fighting using their desks as horses" width="350"/>
+  </a>
+</p>
 
 At present, I have taken up the mantle of freelance :shield:<b>web developer</b> and :axe: <b>software engineer</b>, traversing the vast expanse of digital landscapes. It is within the intricate web of complex conundrums that my true ardor lies. The thrill of unraveling :dragon: <b>knotty puzzles</b> and devising :briefcase: <b>ingenious solutions</b> has become the lifeblood of my existence :crossed_swords:.
 
